@@ -682,7 +682,7 @@ _(SI o NO)_
 - [x] `Conversion.c` con `ToInteger` corregida y tests pasando
 - [x] Los 5 programas funcionando (`make all`)
 - [x] `make test` pasa localmente
-- [ ] Todo pusheado a `main`
+- [x] Todo pusheado a `main`
 
 ### Verificación local
 
